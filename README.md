@@ -1,6 +1,5 @@
-# Scalable REST API + Frontend (JavaScript)
+# Scalable REST API + Frontend 
 
-Production-ready internship assignment project with secure authentication, role-based access, and a React UI for API interaction.
 
 ## Tech Stack
 
@@ -30,7 +29,7 @@ Production-ready internship assignment project with secure authentication, role-
 ## Project Structure
 
 ```text
-pro7/
+TaskFlow-Portal/
   backend/
   frontend/
   docker-compose.yml
